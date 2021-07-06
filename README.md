@@ -1,2 +1,2 @@
 # ExerciciosPython
-Repositório com exercícios diversos na linguagem Python 3.
+Repositório com exercícios diversos, propostos no HackerRank, na linguagem Python 3.
